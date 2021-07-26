@@ -1,0 +1,17 @@
+{
+  "name": "shop-now-master",
+  "version": "1.0.0",
+  "description": "The Smartcontract used in this Dapp is Illustrated in medium article. Have a look at https://link.medium.com/jtuzr8rDPX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "http-server": "^0.12.3",
+    "solc": "^0.8.6",
+    "web3": "^0.20.7"
+  }
+}
